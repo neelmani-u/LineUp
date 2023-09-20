@@ -1,4 +1,4 @@
-# Project Title: LineUp - Productivity Booster Utility
+# LineUp - Productivity Booster Utility
 LineUp is a powerful productivity booster utility designed to help users streamline their daily tasks, manage references efficiently, and accelerate their workflow with customizable hotkeys. This multifunctional tool combines task scheduling, link reference storage, and hotkey management into a single, user-friendly application, providing a comprehensive solution to enhance productivity.
 
 ## Preview:
